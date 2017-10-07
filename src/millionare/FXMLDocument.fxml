@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="ap" prefHeight="604.0" prefWidth="1008.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="millionare.FXMLDocumentController">
+    <children>
+      <Arc fx:id="a7" fill="DODGERBLUE" layoutX="527.0" layoutY="487.0" length="270.0" radiusX="62.0" radiusY="33.0" startAngle="45.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" type="ROUND" />
+      <Arc fx:id="a5" fill="DODGERBLUE" layoutX="523.0" layoutY="409.0" length="270.0" radiusX="60.0" radiusY="33.0" startAngle="45.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" type="ROUND" />
+      <Arc fx:id="a8" fill="DODGERBLUE" layoutX="756.0" layoutY="487.0" length="270.0" radiusX="58.0" radiusY="33.0" startAngle="-135.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" type="ROUND" />
+      <Arc fx:id="a6" fill="DODGERBLUE" layoutX="750.0" layoutY="409.0" length="270.0" radiusX="60.0" radiusY="33.0" startAngle="-135.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" type="ROUND" />
+      <Arc fx:id="a3" fill="DODGERBLUE" layoutX="160.0" layoutY="487.0" length="270.0" radiusX="58.0" radiusY="33.0" startAngle="45.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" type="ROUND" />
+      <Arc fx:id="a4" fill="DODGERBLUE" layoutX="390.0" layoutY="487.0" length="270.0" radiusX="52.0" radiusY="33.0" startAngle="-135.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" type="ROUND" />
+      <Arc fx:id="a2" fill="DODGERBLUE" layoutX="384.0" layoutY="409.0" length="270.0" radiusX="62.0" radiusY="33.0" startAngle="-135.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke: yellow; -fx-stroke-width: 2;" type="ROUND" />
+      <Arc fill="DODGERBLUE" layoutX="730.0" layoutY="283.0" length="270.0" radiusX="146.0" radiusY="69.0" startAngle="-133.9" stroke="#0092ff" strokeType="INSIDE" style="-fx-stroke: yellow; -fx-stroke-width: 4;" type="ROUND" />
+      <Arc fill="DODGERBLUE" layoutX="177.0" layoutY="283.0" length="270.0" radiusX="154.0" radiusY="69.0" startAngle="45.0" stroke="#0092ff" strokeType="INSIDE" style="-fx-stroke: yellow; -fx-stroke-width: 4;" type="ROUND" />
+        <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
+      <VBox layoutX="890.0" layoutY="5.0" prefHeight="597.0" prefWidth="118.0" style="-fx-background-color: red;">
+         <children>
+            <Label fx:id="l18" alignment="CENTER" prefHeight="59.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="18        $3M" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l17" alignment="CENTER" prefHeight="59.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="17        $2M" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l16" alignment="CENTER" prefHeight="58.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="16         $1M" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l15" alignment="CENTER" prefHeight="57.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="15     $800K" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l14" alignment="CENTER" prefHeight="57.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="14     $600K" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l13" alignment="CENTER" prefHeight="55.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="13     $400K" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l12" alignment="CENTER" prefHeight="53.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="12     $200K" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l11" alignment="CENTER" prefHeight="52.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="11      $100K" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l10" alignment="CENTER" prefHeight="50.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text=" 10   $80,000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l9" alignment="CENTER" prefHeight="52.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text=" 9    $60,000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l8" alignment="CENTER" prefHeight="51.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text=" 8   $50,000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l7" alignment="CENTER" prefHeight="51.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text=" 7   $35,000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l6" alignment="CENTER" prefHeight="50.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text=" 6   $24,000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l5" alignment="CENTER" prefHeight="45.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="5   $15,000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l4" alignment="CENTER" prefHeight="40.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text=" 4   $10,000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l3" alignment="CENTER" prefHeight="45.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="  3     $6000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l2" alignment="CENTER" prefHeight="43.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text="  2     $2000" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="l1" alignment="CENTER" prefHeight="63.0" prefWidth="118.0" style="-fx-background-color: black; -fx-border-width: 2; -fx-border-color: yellow;" text=" 1      $500" textFill="#efff00">
+               <font>
+                  <Font name="Comic Sans MS" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="138.0" layoutX="167.0" layoutY="214.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke: yellow; -fx-stroke-width: 4;" width="575.0" />
+      <Arc fx:id="a1" fill="DODGERBLUE" layoutX="161.0" layoutY="409.0" length="270.0" radiusX="58.0" radiusY="33.0" startAngle="45.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke: yellow; -fx-stroke-width: 2;" type="ROUND" />
+      <Rectangle fx:id="r1" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="66.0" layoutX="153.0" layoutY="376.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke: yellow; -fx-stroke-width: 2;" width="243.0" />
+      <Rectangle fx:id="r3" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="66.0" layoutX="515.0" layoutY="376.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" width="243.0" />
+      <Rectangle fx:id="r2" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="66.0" layoutX="152.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" width="243.0" />
+      <Rectangle fx:id="r4" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="66.0" layoutX="518.0" layoutY="454.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke-width: 2; -fx-stroke: yellow;" width="243.0" />
+      <Line endX="38.0" layoutX="432.0" layoutY="394.0" startX="7.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="35.0" layoutX="432.0" layoutY="422.0" startX="8.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="38.0" layoutX="433.0" layoutY="473.0" startX="4.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="38.0" layoutX="433.0" layoutY="501.0" startX="4.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="86.0" layoutX="802.0" layoutY="409.0" startX="8.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="86.0" layoutX="802.0" layoutY="487.0" startX="12.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="82.0" layoutX="21.0" layoutY="488.0" startX="-18.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="82.0" layoutX="21.0" layoutY="410.0" startX="-18.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="24.0" layoutX="1.0" layoutY="286.0" startX="2.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Line endX="12.0" layoutX="876.0" layoutY="284.0" startX="1.0" stroke="#fffb00" strokeWidth="3.0" />
+      <Circle fx:id="c" fill="#1f93ff00" layoutX="458.0" layoutY="102.0" radius="90.0" stroke="BLACK" strokeType="INSIDE" style="-fx-stroke: yellow; -fx-stroke-width: 15;" />
+      <Button fx:id="start" layoutX="375.0" layoutY="539.0" mnemonicParsing="false" onAction="#start" prefHeight="43.0" prefWidth="159.0" style="-fx-background-color: yellow;" text="Start!">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <TextField fx:id="op1" layoutX="153.0" layoutY="378.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="62.0" prefWidth="243.0" style="-fx-background-color: #1E90FF;">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+         <font>
+            <Font name="Comic Sans MS" size="24.0" />
+         </font></TextField>
+      <TextField fx:id="op2" layoutX="510.0" layoutY="379.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="60.0" prefWidth="251.0" style="-fx-background-color: #1E90FF;">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+         <font>
+            <Font name="Comic Sans MS" size="24.0" />
+         </font></TextField>
+      <TextField fx:id="op3" layoutX="152.0" layoutY="456.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="62.0" prefWidth="243.0" style="-fx-background-color: #1E90FF;">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+         <font>
+            <Font name="Comic Sans MS" size="24.0" />
+         </font></TextField>
+      <TextField fx:id="op4" layoutX="518.0" layoutY="456.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="62.0" prefWidth="243.0" style="-fx-background-color: #1E90FF;">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+         <font>
+            <Font name="Comic Sans MS" size="24.0" />
+         </font></TextField>
+      <Label fx:id="time" alignment="CENTER" layoutX="401.0" layoutY="36.0" prefHeight="138.0" prefWidth="112.0" textFill="WHITE">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Label>
+      <Rectangle fx:id="correctrect" arcHeight="5.0" arcWidth="5.0" height="66.0" layoutX="153.0" layoutY="531.0" stroke="BLACK" strokeType="INSIDE" style="visibility: hidden;" width="609.0">
+         <effect>
+            <InnerShadow color="#4400ff" height="60.5" radius="64.625" width="200.0" />
+         </effect>
+         <fill>
+            <LinearGradient endX="0.9095238095238094" endY="1.0" startX="1.0">
+               <stops>
+                  <Stop color="#591ee4" />
+                  <Stop color="#ffda0b" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Rectangle>
+      <Label fx:id="correct" alignment="CENTER" layoutX="180.0" layoutY="529.0" prefHeight="58.0" prefWidth="556.0" style="visibility: hidden;" text="Correct!">
+         <font>
+            <Font name="Comic Sans MS" size="48.0" />
+         </font>
+         <textFill>
+            <LinearGradient endX="0.7571428571428571" endY="1.0" startX="0.6142857142857143">
+               <stops>
+                  <Stop color="#591ee4" />
+                  <Stop color="#429035" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Label>
+      <Label fx:id="ques" alignment="CENTER" layoutX="173.0" layoutY="221.0" prefHeight="126.0" prefWidth="563.0" textFill="WHITE">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Button fx:id="again" layoutX="81.0" layoutY="77.0" mnemonicParsing="false" onAction="#playAgain" prefHeight="51.0" prefWidth="159.0" style="-fx-background-color: yellow;" text="Play Again">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Button fx:id="exit" layoutX="671.0" layoutY="80.0" mnemonicParsing="false" onAction="#exitOut" prefHeight="51.0" prefWidth="159.0" style="-fx-background-color: yellow;" text="Exit">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Label fx:id="won" alignment="CENTER" layoutX="368.0" layoutY="62.0" prefHeight="83.0" prefWidth="180.0" text="You Won" textFill="#ffd900">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label fx:id="lose" alignment="CENTER" layoutX="367.0" layoutY="64.0" prefHeight="83.0" prefWidth="180.0" text="You Lose" textFill="#ffd900">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>

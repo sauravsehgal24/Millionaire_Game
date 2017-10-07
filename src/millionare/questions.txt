@@ -1,0 +1,35 @@
+1,How many languages and dialects are spoken by people all over the world?,6000,9000,4000,1000,9000
+2,Who won the Shanghai Masters Tennis tournament organised recently?,Andy Murray,Nikolay,Rafael Nadal,Federer,Nikolay
+3,DRDO was formed in,1947,1950,1954,1958,1958
+4,What is the name of Indian Aerostat of 2000 capacity,Rustom,Mareech,Akashdeep,BrahMos,Akashdeep
+5,The three-stage Agni-V has a range of(in KM),2000,3000,4000,5000,5000
+6,Honorable PM of India declared 2012 as which national year,Phyics,Mathematical,Nano Science,Metallurgy,Mathematical
+7,This radar is an indigenous 3 D surveillance radar development by LRDE,Rohini,Sarvatra,Mareech,Agni III,Rohini
+8,Indian army’s oldest T-72 tanks entered service in,1960,1962,1965,1969,1969
+9,National Science Day is celebrated on,11 May,1 Jan,28 Feb,15 May,28 Feb
+10,Pinaka is a,MBR System,Missile,Bomb,Submarine,MBR System
+11,Technology Day is celebrated on,11 May,1 Jan,28 Feb,15 May,11 May
+12,What is the another name of ATHLETICS,Sports,Track &Field,Gymnastics,Decathlon,Track &Field
+13,How many lanes are there in a standard track,9,8,12,13,9
+14,The procedure of doping test is including the collection of,Sugar sample,Urine sample,stool Sample,Blood Sample,Urine sample
+15,Landing area of High jump event should be,5x2 mts,5x3 mts,5x4 mts,5x5 mts,5x3 mts
+16,Minimum weight of shot for acceptance of a record (for women),4 kg,8 kg,7.25 kg,5 kg,4 kg
+17,How many hurdles are placed in a Hurdle race in one lap?,12,15,7,10,10
+18,Which is the northernmost capital city in the world?,Oslo,Helsinki,Reykjavik,Moscow,Reykjavik
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
